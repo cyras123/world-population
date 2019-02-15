@@ -1,6 +1,6 @@
 "region";"subregion";"key";"value"
 "Asia";"Southern Asia";"Afghanistan";25500100
-"Europe";"Northern Europe";"Åland Islands";28502
+"Europe";"Northern Europe";"Ã…land Islands";28502
 "Europe";"Southern Europe";"Albania";2821977
 "Africa";"Northern Africa";"Algeria";37900000
 "Oceania";"Polynesia";"American Samoa";55519
@@ -54,10 +54,10 @@
 "Africa";"Middle Africa";"Democratic Republic of the Congo";67514000
 "Oceania";"Polynesia";"Cook Islands";14974
 "Americas";"Central America";"Costa Rica";4667096
-"Africa";"Western Africa";"Côte d'Ivoire";-1
+"Africa";"Western Africa";"CÃ´te d'Ivoire";-1
 "Europe";"Southern Europe";"Croatia";4290612
 "Americas";"Caribbean";"Cuba";11167325
-"Americas";"Caribbean";"Curaçao";150563
+"Americas";"Caribbean";"CuraÃ§ao";150563
 "Asia";"Western Asia";"Cyprus";865878
 "Europe";"Eastern Europe";"Czech Republic";10512900
 "Europe";"Northern Europe";"Denmark";5623501
@@ -180,11 +180,11 @@
 "Americas";"Caribbean";"Puerto Rico";3667084
 "Asia";"Western Asia";"Qatar";2024707
 "Europe";"Eastern Europe";"Republic of Kosovo";1733842
-"Africa";"Eastern Africa";"Réunion";821136
+"Africa";"Eastern Africa";"RÃ©union";821136
 "Europe";"Eastern Europe";"Romania";20121641
 "Europe";"Eastern Europe";"Russia";143500000
 "Africa";"Eastern Africa";"Rwanda";10537222
-"Americas";"Caribbean";"Saint Barthélemy";8938
+"Americas";"Caribbean";"Saint BarthÃ©lemy";8938
 "Africa";"Western Africa";"Saint Helena";-1
 "Americas";"Caribbean";"Saint Kitts and Nevis";54000
 "Americas";"Caribbean";"Saint Lucia";166526
@@ -193,7 +193,7 @@
 "Americas";"Caribbean";"Saint Vincent and the Grenadines";109000
 "Oceania";"Polynesia";"Samoa";187820
 "Europe";"Southern Europe";"San Marino";32509
-"Africa";"Middle Africa";"São Tomé and Príncipe";187356
+"Africa";"Middle Africa";"SÃ£o TomÃ© and PrÃ­ncipe";187356
 "Asia";"Western Asia";"Saudi Arabia";29994272
 "Africa";"Western Africa";"Senegal";13567338
 "Europe";"Southern Europe";"Serbia";7181505
